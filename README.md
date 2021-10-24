@@ -17,3 +17,5 @@ Chennai.csv: dataset used for model building.
 
 Chennai_House_PricePredictor.ipynb: the jupyter notebook containing code
 
+Dataset_url =  https://www.kaggle.com/ruchi798/housing-prices-in-metropolitan-areas-of-india?select=Chennai.csv
+
