@@ -4,11 +4,8 @@ Author: Love Fadia
 The code above predicts the Housing prices for the patients based on the features given in the Dataset The project is organized as follows
 
 1)Data visualization and cleaning
-
 2)Train-Test Splitting
-
 3)Training Models
-
 4)Model evaluation
 
 
