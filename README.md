@@ -1,5 +1,4 @@
 Created on 24 October 2021
-
 Author: Love Fadia
 
 The code above predicts the Housing prices for the patients based on the features given in the Dataset The project is organized as follows
