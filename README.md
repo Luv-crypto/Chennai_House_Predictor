@@ -13,7 +13,7 @@ The code above predicts the Housing prices for the patients based on the feature
 
 
 
-insurance.csv: dataset used for model building.
+Chennai.csv: dataset used for model building.
 
-Insurance.ipynb: the jupyter notebook containing code
+Chennai_House_PricePredictor.ipynb: the jupyter notebook containing code
 
